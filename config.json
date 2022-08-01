@@ -13,10 +13,10 @@
         "skin": true,
         "more": false,
         
-        "admob_open_ads": "ca-app-pub-3044835834543602/9050930640",
+        "admob_open_ads": "ca-app-pub-3044835834543602/9050930640xxx",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111xx",
-        "admob_inter": "ca-app-pub-3044835834543602/8336614771",
-        "admob_native": "ca-app-pub-3044835834543602/8355676514",
+        "admob_inter": "ca-app-pub-3044835834543602/8336614771xx",
+        "admob_native": "ca-app-pub-3044835834543602/8355676514xx",
        
         
         "unity_banner": "Banner_Android",
